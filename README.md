@@ -1,4 +1,4 @@
-# 数桥云店收银系统（Web 版）Shuqiao Cloud WEB Cashier
+# 数桥云店收银WEB POS系统 | Shuqiao Clound POS Cashier.
 ## 开发规范
 统一使用ES6 语法
 方法注释
