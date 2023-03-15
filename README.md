@@ -1,4 +1,5 @@
-# 数桥云店收银WEB POS系统 | Shuqiao Clound POS Cashier.
+# 门店在线收银系统 （Posify）.
+
 ## 开发规范
 统一使用ES6 语法
 方法注释
